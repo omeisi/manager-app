@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/aviadomeisi/Desktop/apps/manager/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/aviadomeisi/Desktop/apps/manager/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/aviadomeisi/Desktop/apps/manager/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
